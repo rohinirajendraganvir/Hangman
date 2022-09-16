@@ -1,0 +1,14 @@
+{
+    "User": [
+        {
+            "username": "rohini",
+            "password": "rohini123@",
+            "Profile": {
+                "description": "sweet",
+                "Dob": "sdfghjk",
+                "Gender": "sdfghj",
+                "Hobbies": "dfghjkl"
+            }
+        }
+    ]
+}
